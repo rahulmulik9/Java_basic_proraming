@@ -1,6 +1,7 @@
 package DataStructure.stack.usingLinkedList;
 
 import java.util.Scanner;
+//for stack by using linkedlist me will add element at begining of the linked list and by retriving we will delet or peek from begining
 
 public class Main {
     public static Scanner sc=new Scanner(System.in);
